@@ -1,4 +1,4 @@
-## Mattermost-backup
+## Mattermost local backup
 
 ```
 vim /etc/crontab
